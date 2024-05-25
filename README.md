@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/012/443/043/original/female-podcaster-talking-to-microphone-recording-podcast-in-studio-radio-host-with-table-png.png"> 
-<a href="https://linkedin.com/in/srujitha raghava koduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srujitha raghava koduri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srujitha-raghava-koduri-7b4794254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srujitha raghava koduri" height="30" width="40" /></a>
 <a href="https://kaggle.com/srujitharaghava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srujitharaghava" height="30" width="40" /></a>
 <a href="https://instagram.com/srujjiiii.006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srujjiiii.006" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/srujithakoduri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srujithakoduri" height="30" width="40" /></a>
